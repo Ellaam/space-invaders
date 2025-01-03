@@ -1,0 +1,51 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (New_SDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TransformComponent.cpp
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(4,1): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(4,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(4,43): warning C4508: 'TransformComponent': function should return a value; 'void' return type assumed
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(5,1): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(5,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(5,44): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(7,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(8,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,26): error C2182: 'Render': this use of 'void' is not valid
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,33): error C2065: 'SDL_Renderer': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,47): error C2065: 'renderer': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,57): error C2143: syntax error: missing ';' before '{'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,58): error C2059: syntax error: '}'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(9,58): error C2143: syntax error: missing ';' before '}'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(11,15): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(11,45): error C2143: syntax error: missing ';' before '{'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(11,45): error C2447: '{': missing function header (old-style formal list?)
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(15,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(16,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(19,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(20,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(23,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(24,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(25,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(28,7): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(28,40): error C2270: 'GetW': modifiers not allowed on nonmember functions
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(29,12): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(32,7): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(32,40): error C2270: 'GetH': modifiers not allowed on nonmember functions
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(33,12): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(36,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(37,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(40,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(41,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(44,6): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(45,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(46,5): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(49,7): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(49,40): error C2270: 'GetX': modifiers not allowed on nonmember functions
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(50,12): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(52,7): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(52,40): error C2270: 'GetY': modifiers not allowed on nonmember functions
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(53,12): error C2065: 'mRectangle': undeclared identifier
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(56,11): error C2653: 'TransformComponent': is not a class or namespace name
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(56,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(56,31): error C2146: syntax error: missing ';' before identifier 'GetRectangle'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(56,52): error C2143: syntax error: missing ';' before '{'
+D:\Dev\SDL-Paid\New_SDL\New_SDL\TransformComponent.cpp(56,52): error C2447: '{': missing function header (old-style formal list?)
